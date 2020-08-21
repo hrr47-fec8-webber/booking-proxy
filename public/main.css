@@ -1,0 +1,15 @@
+#airbnb-listing-page {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+#module-main {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  margin: 30px 60px 0 0;
+}
+
+#app {
+  margin: 60px 0;
+}
